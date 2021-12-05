@@ -1,0 +1,36 @@
+* {
+  width: 500px;
+  background-color: black;
+  color: white;
+}
+.desc {
+  color: cadetblue;
+  font-weight: bolder;
+}
+.one,
+.two {
+  background-color: black;
+  color: rgb(248, 245, 245);
+  font-weight: bolder;
+  width:auto;
+}
+
+.home {
+  text-align: center;
+  background-color: rgb(0, 183, 255);
+  color: black;
+  font-weight: bolder;
+}
+
+.Main {
+  text-align: center;
+  background-color: lightgreen;
+  color: black;
+  font-weight: bolder;
+}
+#Odin {
+  text-align: center;
+  background-color: lightblue;
+  color: black;
+  font-weight: bolder;
+}
